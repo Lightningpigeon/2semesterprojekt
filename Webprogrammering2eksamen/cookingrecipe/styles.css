@@ -1,0 +1,26 @@
+body {
+  color: #fafafa;
+}
+
+p {
+  font: 100% "verdana";
+  color: #333;
+}
+
+header {
+  background-color: #0084ff;
+  font-size: 36px;
+  font-family: "verdana";
+}
+
+.footer {
+  background-color: #0084ff;
+}
+
+h1 {
+  font: 150% "verdana";
+  text-align: center;
+  color: #333;
+}
+
+/*# sourceMappingURL=styles.css.map */

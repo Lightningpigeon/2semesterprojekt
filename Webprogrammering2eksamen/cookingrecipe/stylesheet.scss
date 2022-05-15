@@ -1,0 +1,31 @@
+$fontv: "verdana";
+$primary-color: #333;
+$backgroundcolor: #fafafa;
+$bgheaderfooter: #0084ff;
+$headerfont: 36px;
+
+body {
+  color: $backgroundcolor;
+}
+
+p {
+  font: 100% $fontv;
+  color: $primary-color;
+}
+
+header {
+  background-color: $bgheaderfooter;
+  font-size: $headerfont;
+  font-family: $fontv;
+}
+
+.footer {
+  background-color: $bgheaderfooter;
+}
+
+h1 {
+  font: 150% $fontv;
+  text-align: center;
+  color: $primary-color;
+
+}
